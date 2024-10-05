@@ -4,17 +4,17 @@ This repository serves as the official platform for submitting **bug reports** a
 
 ## How to Submit Feedback
 
-### 1. Report a Bug
-If you find a bug on difftext.com, please create a [new issue][bug-url] with the **`bug`** label and include:
+### 1. Request a Feature
+To request a feature, create a [new issue][feature-url] with the https://github.com/dotspencer/diff-text-feedback/labels/feature%20request label and provide:
+- A description of the feature you would like to see.
+- Any additional context or use case that would be helpful.
+
+### 2. Report a Bug
+If you find a bug on difftext.com, please create a [new issue][bug-url] with the https://github.com/dotspencer/diff-text-feedback/labels/bug label and include:
 - A clear description of the bug.
 - Steps to reproduce the issue.
 - Screenshots (if applicable).
 - Your browser and OS version.
-
-### 2. Request a Feature
-To request a feature, create a [new issue][feature-url] with the **`feature request`** label and provide:
-- A description of the feature you would like to see.
-- Any additional context or use case that would be helpful.
 
 ## How to Stay Updated
 To stay updated on the progress of your submissions or other updates, feel free to:
