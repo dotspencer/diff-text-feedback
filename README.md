@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/7296cffb-cfff-46b3-a46b-15ed5a09df28" width="150">&nbsp; Feedback!
 
-This repository serves as the official platform for submitting **bug reports** and **feature requests** for [difftext.com](https://difftext.com). If you've encountered any issues or have suggestions to improve the platform, we would love to hear from you!
+This repo serves as the official platform for submitting **bug reports** and **feature requests** for [difftext.com](https://difftext.com). If you've encountered any issues or have suggestions to improve the platform, we would love to hear from you!
 
 But before submitting, please check the [existing issues](https://github.com/dotspencer/diff-text-feedback/issues) to see if your bug or feature request has already been reported.
 
