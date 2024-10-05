@@ -20,7 +20,7 @@ Create a [new issue][new-bug-url] with the [<img src="https://img.shields.io/bad
 
 [new-bug-url]: https://github.com/dotspencer/diff-text-feedback/issues/new?labels=bug
 [new-feature-url]: https://github.com/dotspencer/diff-text-feedback/issues/new?labels=feature+request
-[bugs-url]: https://github.com/dotspencer/diff-text-feedback/labels/content
+[bugs-url]: https://github.com/dotspencer/diff-text-feedback/labels/bug
 [features-url]: https://github.com/dotspencer/diff-text-feedback/labels/feature%20request
 
 <br>
