@@ -18,12 +18,11 @@ Create a [new issue][new-bug-url] with the [<img src="https://img.shields.io/bad
 - Screenshots (if applicable).
 - Your browser and OS version.
 
-## How to Stay Updated
-To stay updated on the progress of your submissions or other updates, feel free to:
-- Subscribe to issue notifications.
-- Watch the repository for future updates.
-
 [new-bug-url]: https://github.com/dotspencer/diff-text-feedback/issues/new?labels=bug
 [new-feature-url]: https://github.com/dotspencer/diff-text-feedback/issues/new?labels=feature+request
 [bugs-url]: https://github.com/dotspencer/diff-text-feedback/labels/content
 [features-url]: https://github.com/dotspencer/diff-text-feedback/labels/feature%20request
+
+<br>
+
+🎉 Thanks for helping make the best diff platform online!
