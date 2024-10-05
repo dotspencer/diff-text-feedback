@@ -2,7 +2,7 @@
 
 This repo serves as the official platform for submitting **bug reports** and **feature requests** for [difftext.com](https://difftext.com). If you've encountered any issues or have suggestions to improve the platform, we would love to hear from you!
 
-Before submitting, please check the [existing issues](https://github.com/dotspencer/diff-text-feedback/issues) to see if your bug or feature request has already been reported.
+Before submitting, please check the [existing issues](https://github.com/dotspencer/diff-text-feedback/issues) to see if your bug or feature request has already been posted.
 
 ## How to Submit Feedback
 
