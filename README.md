@@ -1,5 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/7296cffb-cfff-46b3-a46b-15ed5a09df28" width="130">&nbsp; Feedback!
 
+*Update: It looks like using issues might not be the ideal method for gathering feedback. I'll be updating this shortly with instructions use the new Github Discussions feature.*
+
 This repo serves as the official place to submit **feature requests** and **bug reports** for [difftext.com](https://difftext.com).
 
 Before submitting, please check the [existing issues](https://github.com/dotspencer/diff-text-feedback/issues) to see if the bug or feature request has already been added.
